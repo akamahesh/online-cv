@@ -20,7 +20,7 @@ sidebar:
   gitlab:
   bitbucket:
   twitter: '@akamahesh'
-  stack-overflow: akamahesh # Number/Username, e.g. 123456/alandoe
+  stack-overflow: 6797088/akamahesh # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -31,170 +31,147 @@ sidebar:
     - idiom: English
       level: Professional
 
-    - idiom: Java
-      level: Professional
-
   interests:
-    - item: Climbing
+    - item: MovieBuff
       link:
 
-    - item: Snowboarding
+    - item: Blogging
       link:
 
-    - item: Cooking
+    - item: Photography
       link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-
-    Second paragraph if required.
+    I have a big focus on doing things properly. 
+    My highest priority is to write flexible and understandable code, which can be adjusted easily in the future. My code design is inspired by the book "Clean Code" by Robert C. Martin. As even the best code design cannot consider all future requirements, I believe in continuous refactoring to ensure the flexibility and comprehensibility of the code. My refactoring methodology is inspired by the book "Refactoring" by Martin Fowler.
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: B.Tech in Computer Science & Engineering
+    university: Uttarakhand Technical University
+    time: 2012 - 2016
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      Seemant Institute of Technology Pithoragarh,
 
-        - Bullet point
-        - Bullet point
-
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-
-        - Bullet point
-        - Bullet point
+        - 71% (187/300 in Major Project)
+        - Started a failed Startup on Reselling model
 
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Android Developer
+    time: April 2019 - Present
+    company: Dainik Bhaskar, Noida
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      Development of the existing E-Commerce Solution for Android.
+      Redesign of the App for Smartphones and Tablets. 
+      Development of the REST-API. key technologies - Java, Android.
+      Developing Referral System. Games like Tamobla for user engagement. 
+      In house React Native application. Worked on Different Modules - Top News Sections, Jobs Section,
+Complete Media Playing Support , GA Tracking etc.
 
-        - Bullet point
-        - Bullet point
+        - Tambola & Quiz Contests (played by approx a million users)
+        - Referral System 
+        - DBReport- React Native Cross Platform Analytics app
+        - 1,000,000+ Installs
+        - 500k+ Active Users
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Android Developer
+    time: Feb 2018 - March 2019
+    company: Mobulous Technologies, Noida
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Different Mobile Application of different domains. Spent 6+ months in Client Side (DB Corp Ltd.)
 
-        - Bullet point
-        - Bullet point
+        - 2+ React Native Cross Platform projects
+        - 3 Android Native Projects (Java/Kotlin)
 
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+  - role: Android Developer
+    time: Sept 2016 - Oct 2017
+    company: Innverse Technologies, Noida
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Developed application from scratch with a team of 5 developers, E-commerce application for B2B and Group Chat application
+      for political campaigns.
 
-        - Bullet point
-        - Bullet point
+        - Chat application with XMPP Server 
+        - Ecommerce application - Peepsin
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Projects that i worked upon.
 
   assignments:
-    - title: Velocity
+    - title: Divya Bhaskar App — Gujarati News App
       link: '#hook'
       tagline: 'A responsive website template designed to help startups promote, market and sell their products.'
 
-    - title: DevStudio
+    - title: Money Bhaskar App ​ — ​ Business News App
       link: '#'
       tagline: 'A responsive website template designed to help web developers/designers market their services.'
 
-    - title: Tempo
+    - title: DBReport ​- Data Analytics App
       link: '#'
-      tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
+      tagline: 'React native cross platform app for both android and ios, Worked
+on D3Graphs , showing large datasets in different graphs.'
 
-    - title: Atom
+    - title: TradeMachine ​ — Football League Trading Appom
       link: '#'
-      tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
+      tagline: 'React Native- cross platform application for Fantasy football trading
+betting player ranking etc.'
 
-    - title: Delta
+    - title: SuccessThruStyle ​ — ​ Color palette For womens
       link: '#'
-      tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
+      tagline: 'React Native- cross platform application for clients of SuccessThruStyle
+clients who wants to know which colors look great on them and which
+colors do not.'
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
 
-  papers:
-    - title: The Art of Computer Programming
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
+    - title: Linqq​ — ​ Profession Networking Platform
+      link: 'https://play.google.com/store/apps/details?id=com.linqq&hl=en'
+      tagline: 'React Native- cross platform application for clients of SuccessThruStyle
+clients who wants to know which colors look great on them and which
+colors do not.'
 
-    - title: 'Genetic Programming III: Darwinian Invention &amp; Problem Solving'
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
 
-    - title: A syntax directed compiler for Algol 60
-      authors: Edgar T. Irons
-      conference: 'Comm. ACM 4 (1961), 51–55'
+  # papers:
+  #   - title: The Art of Computer Programming
+  #     authors: Donald E. Knuth
+  #     conference: Addison-Wesley, 1968
+
+  #   - title: 'Genetic Programming III: Darwinian Invention &amp; Problem Solving'
+  #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+  #     conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
+
+  #   - title: A syntax directed compiler for Algol 60
+  #     authors: Edgar T. Irons
+  #     conference: 'Comm. ACM 4 (1961), 51–55'
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
-      level: 98%
+    - name: Java
+      level: 85%
 
-    - name: Javascript & jQuery
-      level: 98%
+    - name: Kotlin
+      level: 70%
 
-    - name: Angular
-      level: 98%
+    - name: JavaScript
+      level: 75%
 
     - name: HTML5 & CSS
-      level: 95%
+      level: 65%
 
-    - name: Ruby on Rails
+    - name: Node and Express
       level: 85%
 
     - name: Sketch & Photoshop
       level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by akaMahesh.
