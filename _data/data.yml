@@ -101,12 +101,12 @@ projects:
 
   assignments:
     - title: Divya Bhaskar App — Gujarati News App
-      link: '#hook'
-      tagline: 'A responsive website template designed to help startups promote, market and sell their products.'
+      link: 'https://play.google.com/store/apps/details?id=com.ak.ta.divya.bhaskar.activity&hl=en'
+      tagline: 'Money Bhaskar is India’s largest Business News and Financial News app. It provides latest news and real time top stories of the financial world covering Economy, Market, Industry, SME, States, Auto, Property, Commodities, Currency, eCommerce, Startups, BSE and NSE news of India and abroad as it happens.'
 
     - title: Money Bhaskar App ​ — ​ Business News App
-      link: '#'
-      tagline: 'A responsive website template designed to help web developers/designers market their services.'
+      link: 'https://play.google.com/store/apps/details?id=com.bhaskar.moneybhaskar&hl=en'
+      tagline: 'Money Bhaskar is India’s largest Business News and Financial News app. It provides latest news and real time top stories of the financial world covering Economy, Market, Industry, SME, States, Auto, Property, Commodities, Currency, eCommerce, Startups, BSE and NSE news of India and abroad as it happens.'
 
     - title: DBReport ​- Data Analytics App
       link: '#'
@@ -114,12 +114,12 @@ projects:
 on D3Graphs , showing large datasets in different graphs.'
 
     - title: TradeMachine ​ — Football League Trading Appom
-      link: '#'
+      link: 'https://play.google.com/store/apps/details?id=com.trademachine.app&hl=en'
       tagline: 'React Native- cross platform application for Fantasy football trading
 betting player ranking etc.'
 
     - title: SuccessThruStyle ​ — ​ Color palette For womens
-      link: '#'
+      link: 'https://play.google.com/store/apps/details?id=com.cyndyporter&hl=en'
       tagline: 'React Native- cross platform application for clients of SuccessThruStyle
 clients who wants to know which colors look great on them and which
 colors do not.'
